@@ -1,2 +1,3 @@
-# claculadora-cientifica
-calculadora cientifica
+
+# calculadora-cientific
+calculadora cientific
