@@ -1,4 +1,3 @@
-Claro, aqui está a descrição atualizada com seu nome como autor e referência ao arquivo "license.txt" para a licença:
 
 ---
 
